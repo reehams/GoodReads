@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43019929992",
+    "firebase_url": "https://s17-34-goodreadstv.firebaseio.com",
+    "project_id": "s17-34-goodreadstv",
+    "storage_bucket": "s17-34-goodreadstv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43019929992:android:3444abf6dd899eb2",
+        "android_client_info": {
+          "package_name": "com.example.reehams.goodreads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43019929992-uvn764urlurpa573lifk0qo3q1d6k85u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reehams.goodreads",
+            "certificate_hash": "61a4ee27c5255cbbdaea083f875cc10e19a72d70"
+          }
+        },
+        {
+          "client_id": "43019929992-im1om5v46ac0pts8llo8giev3q5oca89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtCcljeoYEihEBdNcZE2UiRj0_Y4olRrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43019929992-im1om5v46ac0pts8llo8giev3q5oca89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
